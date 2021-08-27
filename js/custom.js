@@ -1,5 +1,5 @@
 $(document).ready(
     function(){
-        $(".preloder").fadeOut(2000);
+        $(".preloder").fadeOut();
     }
 );
